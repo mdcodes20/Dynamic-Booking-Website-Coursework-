@@ -1,0 +1,16 @@
+#myreview{
+    background-color: rgb(236, 191, 106);
+  }
+  #stars_dropdown{
+    background-color: #9be8a1;
+  }
+  #stars_dropdown:hover{
+    background-color: #9be8a1;
+  
+  }
+  #review_text{
+    background-color: rgb(216, 225, 207);
+  }
+  #submit{
+    background-color: wheat;
+  }
